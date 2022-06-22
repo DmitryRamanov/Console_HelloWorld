@@ -1,0 +1,16 @@
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.exe
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.deps.json
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.runtimeconfig.json
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.runtimeconfig.dev.json
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.dll
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\ref\01_HelloConsole.dll
+D:\GeekBrain\C#\lesson1\01_HelloConsole\bin\Debug\net5.0\01_HelloConsole.pdb
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.csproj.AssemblyReference.cache
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.AssemblyInfoInputs.cache
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.AssemblyInfo.cs
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.csproj.CoreCompileInputs.cache
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.dll
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\ref\01_HelloConsole.dll
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.pdb
+D:\GeekBrain\C#\lesson1\01_HelloConsole\obj\Debug\net5.0\01_HelloConsole.genruntimeconfig.cache
